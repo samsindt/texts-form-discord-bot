@@ -1,0 +1,1 @@
+export const ADD_TEXT_SLASH_COMMAND = "add-text";

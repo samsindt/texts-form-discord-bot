@@ -1,0 +1,1 @@
+export type RowData = { title: string, author: string, notes?: string, links?: string, addedBy?: string };
